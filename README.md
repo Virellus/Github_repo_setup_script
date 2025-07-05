@@ -1,16 +1,16 @@
-# Github_repo_setup_script
+# Keylogger_Attempt_w/_AI_Jailbreak
 
-wanted to make settign up repos easier, so used claude 4 to do it
+using claude only to create a usb key logger
 
 ## Getting Started
 
-This repository was created on 2025-06-06.
+This repository was created on 2025-07-05.
 
 ## Installation
 
 ```bash
-git clone https://github.com/Virellus/Github_repo_setup_script.git
-cd Github_repo_setup_script
+git clone https://github.com/Virellus/Keylogger_Attempt_w/_AI_Jailbreak.git
+cd Keylogger_Attempt_w/_AI_Jailbreak
 ```
 
 ## Usage
